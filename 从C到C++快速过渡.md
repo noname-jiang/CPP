@@ -1,3 +1,4 @@
+by noname-pika
 ### C++编译环境
 * 编译源文件，生成二进制的目标文件(.obj)
   * g++ -cfile.cpp  ==>  file.obj ; a.out(输出型文件)  
